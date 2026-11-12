@@ -59,9 +59,7 @@ button {
     animation-delay: var(--delay);
 }
 
-@keyframes logo {
-    /* TODO: add animation logic */
-}
+
 @keyframes logo {
     from {
         opacity: 0;
@@ -127,9 +125,6 @@ button {
     animation-delay: var(--delay);
 }
 
-@keyframes hero-copy {
-    /* TODO: add animation logic */
-}
 
 @keyframes hero-copy {
     from {
@@ -228,9 +223,6 @@ h1 em {
     }
 }
 
-@keyframes bottle {
-    /* TODO: add animation logic */
-}
 
 @keyframes bottle {
     from {
@@ -279,10 +271,6 @@ h1 em {
     text-transform: uppercase;
     animation: printed-text var(--anim-time) steps(var(--ch-count));
     overflow: hidden;
-}
-
-@keyframes printed-text {
-    /* TODO: add animation logic */
 }
 
 
